@@ -1,0 +1,3 @@
+# app-ads.txt file for dendengame.com
+# This file is used for app advertising verification
+# Add your advertising network entries below
